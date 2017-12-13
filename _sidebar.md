@@ -16,20 +16,21 @@
   - Advanced Guides
     - [Creating a HOC](react/advanced-guides/creating-a-hoc.md)
 
-- ThunderJS
+- ⚡ ThunderJS ⚡
   - Guides
     - [Developing a new Storm Module](thunderjs/guides/developing-storm.md)
     - [Developing a new Spark Module](thunderjs/guides/developing-spark.md)
     - [Developing a new Bolt Module](thunderjs/guides/developing-bolt.md)
   
-  - Storm *(React Native)*
+  - ⛈️ Storm *(React Native)*
     - [Auth](thunderjs/storm/auth.md)
     - [Onboarding](thunderjs/storm/onboarding.md)
     - [Common](thunderjs/storm/common.md)
     - [System Components](thunderjs/storm/system-components.md)
     - [Widgets](thunderjs/storm/widgets.md)
-  - Spark *(React Web)*
-  - Bolt *(Backend)*
+    - [Step Form](thunderjs/storm/step-form.md)
+  - ✨ Spark *(React Web)*
+  - 🔌 Volt *(Backend)*
   - Graphcool Templates
   - Common
     - [Data](thunderjs/common/data.md)
